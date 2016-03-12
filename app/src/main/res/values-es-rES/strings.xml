@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="button_login_text">Accesar</string>
+    <string name="forgot_password">¿Olvidasteis tu contraseña?</string>
+    <string name="error_field_required">Campo necesario</string>
+    <string name="error_bad_credentials">Usuario o contraseña incorrectos</string>
+    <string name="login_successfully">Autentificación exitosa</string>
+
+
+</resources>
